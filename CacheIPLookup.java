@@ -1,5 +1,6 @@
 /*CacheIPLookup is the implementation for the IIPSCanner interface which does in memory lookup:*/
 
+
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
@@ -10,6 +11,7 @@ public class CacheIPLookup implements IIPScanner, Serializable {
     private Set<String> fraudIPList = new HashSet<>();
 
     public CacheIPLookup() {
+        //Add dummyIP's to the list
         fraudIPList.add("212");
         fraudIPList.add("163");
         fraudIPList.add("15");
