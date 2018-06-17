@@ -1,4 +1,5 @@
 //Fraud Detection App Class File
+//Import the classes
 import com.packt.reader.PropertyReader;
 import org.apache.Spark.SparkConf;
 import org.apache.Spark.api.java.function.Function;
