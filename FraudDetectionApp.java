@@ -1,6 +1,7 @@
 //Fraud Detection App Class File
 //Import the classes
 //Author - Aditya Wagholikar
+//Date - 17 June 2018
 import com.packt.reader.PropertyReader;
 import org.apache.Spark.SparkConf;
 import org.apache.Spark.api.java.function.Function;
