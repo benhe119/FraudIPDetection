@@ -1,4 +1,4 @@
-//--- --- Import Packages --- ---
+//*** --- --- Import Packages --- --- ***
 import com.packt.reader.PropertyReader;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
