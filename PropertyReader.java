@@ -16,6 +16,7 @@ public class PropertyReader {
             is = this.getClass().getResourceAsStream("/streaming.properties");
             prop.load(is);
         } catch (FileNotFoundException e) {
+            //Print Exception
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
