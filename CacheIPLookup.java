@@ -1,6 +1,6 @@
 /*CacheIPLookup is the implementation for the IIPSCanner interface which does in memory lookup:*/
 
-//***Import Libraries
+//*** Import Libraries
 
 import java.io.Serializable;
 import java.util.HashSet;
