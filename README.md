@@ -6,4 +6,4 @@ Fraud IPs list - We will maintain a list of predefined fraud IP range which can 
 
 Spark Streaming - This is a spark streaming application. It reads records from Kafka topic and will detect IP's and domains which are suspicious.
 
-We have used Maven as build and project management tools. 
+I have used Maven as build and project management tools. 
